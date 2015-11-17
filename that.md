@@ -1,7 +1,6 @@
 ## not a easy one
 
-*?
-
-*yes
+?
+yes
 
 ### agree
